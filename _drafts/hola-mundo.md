@@ -3,6 +3,7 @@ layout: post
 
 title: Hola mundo
 subtitle: "What's in the box"
+categories: post
 cover_image: blog-cover.jpg
 
 excerpt: "Incorporated provides a great typography, responsive design, author details, semantic markup and more."
