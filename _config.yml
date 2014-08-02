@@ -1,7 +1,7 @@
 inc:
   # Blog Information
-  title:        "dgnest"
-  subtitle:     "un huevo de ideas por descubrir..."
+  title:        "dgblog"
+  subtitle:     'Porque tenemos un "huevo" de ideas por compartir...'
   cover_image:  blog-cover.jpg
   logo:         logo.png
   
@@ -15,7 +15,7 @@ inc:
   
   # Product Information
   product_link: http://dgnest.com/
-  tagline:      "Se un maestro maker aqui"
+  tagline:      "Conviértete en un verdadero maker ..."
   
   # Comments
   disqus:
@@ -52,7 +52,7 @@ timezone:    nil
 future:      false
 show_drafts: nil
 limit_posts: 0
-pygments:    true
+highlighter: pygments
 
 relative_permalinks: true
 
