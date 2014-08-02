@@ -49,15 +49,15 @@ exclude:     []
 timezone:    nil
 
 # Show future posts
+future:      false
 limit_posts: 0
 highlighter: pygments
 
 relative_permalinks: true
 
-# permalink:     pretty
 permalink: none
 paginate_path: 'page:num'
-paginate: 10
+paginate: 5
 
 markdown:      kramdown
 markdown_ext:  markdown, mkd, mkdn, md

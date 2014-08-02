@@ -276,14 +276,15 @@ a {
     background: none;
     border-radius: 4px;
     font-size: 0.8em;
-    border:2px solid $accent;
+    font-weight: bold;
+    border:2px solid #3498db;
     border-radius: 3px;
-    color:darken($accent, 5%);
+    color: #3498db;
     transition:none;
 
     &:hover {
-        border:2px solid darken($accent, 5%);
-        color:darken($accent, 10%);
-        background:none;
+        border:2px solid #2980b9;
+        color: #ecf0f1;
+        background-color: #3498db;
     }
 }
