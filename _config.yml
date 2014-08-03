@@ -60,7 +60,7 @@ paginate_path: 'page:num'
 paginate: 5
 
 markdown:      kramdown
-markdown_ext:  markdown, mkd, mkdn, md
+markdown_ext:  markdown,mkd,mkdn,md
 textile_ext:   textile
 
 excerpt_separator: "<!-- more -->"
@@ -85,7 +85,7 @@ kramdown:
   footnote_nr: 1
   entity_output: as_char
   toc_levels: 1..6
-  smart_quotes: lsquo, rsquo, ldquo, rdquo
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
   use_coderay: false
 
   coderay:

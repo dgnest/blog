@@ -32,12 +32,12 @@ h1, h2 {
 }
 
 a {
-    color: #3498db;
+    color: $accent;
     text-decoration:none;
     transition:all 0.2s ease;
     
     &:hover {
-        color: #2c3e50;
+        color: darken($accent, 50%);
         text-decoration:none;
     }
 }
@@ -151,7 +151,11 @@ a {
                 
                 .icon-facebook {
                      background-position:0px -14px;
-                 }
+                }
+                .icon-gplus {
+                    background-image: url(/assets/images/googleplus.png);
+                    background-position:0px 0px;
+                }
             }
         }
     }
@@ -277,14 +281,14 @@ a {
     border-radius: 4px;
     font-size: 0.8em;
     font-weight: bold;
-    border:2px solid #3498db;
+    border:2px solid $accent;
     border-radius: 3px;
-    color: #3498db;
+    color: $accent;
     transition:none;
 
     &:hover {
-        border:2px solid #2980b9;
+        border: 2px solid darken($accent, 5%);
         color: #ecf0f1;
-        background-color: #3498db;
+        background-color: $accent;
     }
 }
