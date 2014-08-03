@@ -4,7 +4,7 @@ layout: post
 title: Hola mundo
 subtitle: "What's in the box"
 categories: post
-cover_image: blog-cover.jpg
+cover_image: /media/hola-mundo/blog-cover.jpg
 
 excerpt: "Incorporated provides a great typography, responsive design, author details, semantic markup and more."
 
@@ -102,7 +102,7 @@ inc:
 
 **Zoomable images**
 
-<div class="full zoomable"><img src="/images/incorporated.jpg"></div>
+<div class="full zoomable"><img src="/media/hola-mundo/incorporated.jpg"></div>
 
 **Awesome quotes**
 
