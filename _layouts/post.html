@@ -7,6 +7,12 @@ layout: base
         <img src="{{ page.cover_image }}" class="image">
     </div>
 </div>
+{% else %}
+<div class="article-cover">
+    <div>
+        <img src="/images/{{ site.inc.cover_image }}" class="image">
+    </div>
+</div>
 {% endif %}
 <article>
 
