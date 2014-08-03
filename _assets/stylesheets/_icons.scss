@@ -33,7 +33,7 @@
 .icon-gplus {
     background-image: url(/assets/images/googleplus-white.png);
     background-size:16px;
-    background-position:0 0;
+    background-position:0px -1px;
     width:14px;
     height:14px;
 }
@@ -52,4 +52,5 @@
 
 .icon-gplus.black {
     background-image: url(/assets/images/googleplus.png);
+    background-position:0px -1px;
 }
