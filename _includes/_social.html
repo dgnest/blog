@@ -2,7 +2,7 @@
 <div class="social">
     {% if site.inc.sharing.twitter %}
     <div>
-        <a href="https://twitter.com/share" class="twitter-share-button" {% if site.inc.sharing.twitter.via %}data-via="{{ site.inc.sharing.twitter.via }}"{% endif %} data-text="{{ page.title }}" data-related="{{ site.inc.twitter }}">Tweet</a>
+        <a href="https://twitter.com/share" class="twitter-share-button" {% if site.inc.sharing.twitter %}data-via="{{ site.inc.sharing.twitter }}"{% endif %} data-text="{{ page.title }}. {{ page.subtitle }}" data-related="{{ site.inc.twitter }}">Tweet</a>
     </div>
     {% endif %}
     {% if site.inc.sharing.facebook %}
