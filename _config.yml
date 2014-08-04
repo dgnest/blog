@@ -46,10 +46,10 @@ plugins:     ./_plugins
 layouts:     ./_layouts
 include:     ['.htaccess']
 exclude:     []
-timezone:    nil
+timezone:    America/Lima
 
 # Show future posts
-future:      false
+future:      true
 limit_posts: 0
 highlighter: pygments
 
