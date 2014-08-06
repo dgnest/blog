@@ -11,7 +11,7 @@ inc:
   facebook:     dgnest
   twitter:      dgnest
   gplus:        '112145396131431749370'
-  about_link:   https://dgnest.com/about/
+  about_link:   /post/2014/08/06/dgnest/
   
   # Product Information
   product_link: http://dgnest.com/
@@ -99,11 +99,13 @@ kramdown:
 redcloth:
   hard_breaks: true
 
+# minify html
+env: production
+
 #
 # jekyll-assets: see more at https://github.com/ixti/jekyll-assets
 #
 assets:
-
   dirname: assets
   baseurl: /assets/
   sources:
@@ -112,7 +114,7 @@ assets:
     - _assets/images
   js_compressor: uglifier
   css_compressor: sass
-  cachebust: none
+  cachebust: hard
   cache: false
   gzip: [ text/css, application/javascript ]
   debug: false
