@@ -102,6 +102,9 @@ redcloth:
 # minify html
 env: production
 
+gems:
+  - jekyll-sitemap
+
 #
 # jekyll-assets: see more at https://github.com/ixti/jekyll-assets
 #
