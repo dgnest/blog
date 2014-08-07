@@ -246,4 +246,30 @@ article {
         }
     }
 
+    .awesome-quote {
+
+        border-left: solid #afafaf;
+        padding-left: 12px;
+        p {
+            color: #afafaf;
+            font-style: italic;
+        }
+    }
+
+    #easter-nyan {
+        &:hover a {
+            display: inline-block;
+        }
+        a {
+            margin: 0 10px !important;
+            width: 73px;
+            height: 30px;
+            position: absolute;
+            margin-left: 10px;
+            background: url("/assets/nyan.gif") no-repeat; 
+            background-position-y: -21px;
+            background-size: cover; 
+            display: none;
+        }
+    }
 }
