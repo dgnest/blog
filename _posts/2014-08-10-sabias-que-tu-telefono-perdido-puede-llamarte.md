@@ -10,7 +10,7 @@ excerpt: "Tal vez Google no ha realizado el mejor trabajo promocionándolo, pero
 author:
   name: Vanessa Montezuma
   twitter: vanemontezuma
-  bio: dgnest crew, Brand Strategist, Maker
+  bio: dgnest's Member, Brand Strategist, Maker
   image: members/vanessa.png
 ---
 
