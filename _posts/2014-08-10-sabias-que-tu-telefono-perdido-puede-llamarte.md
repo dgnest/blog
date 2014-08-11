@@ -3,6 +3,7 @@ layout: post
 
 title: ¿Sabías que tu teléfono perdido puede llamarte?
 categories: post
+cover_image: /media/sabias-que-tu-telefono-perdido-puede-llamarte/blog-cover.png
 
 excerpt: "Tal vez Google no ha realizado el mejor trabajo promocionándolo, pero tu teléfono..."
 
