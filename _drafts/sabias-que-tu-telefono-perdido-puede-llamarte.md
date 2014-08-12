@@ -10,6 +10,7 @@ excerpt: "Tal vez Google no ha realizado el mejor trabajo promocionándolo, pero
 author:
   name: Vanessa Montezuma
   twitter: vanemontezuma
+  link: https://twitter.com/vanemontezuma
   bio: dgnest's Member, Brand Strategist, Maker
   image: members/vanessa.png
 ---
@@ -33,7 +34,7 @@ Aunque debemos advertirte que esta característica tiene algunos defectos:
 2. **No funcionará si** el dispositivo ha sido restablecido con los datos de fábrica. 
 3. **No funcionará** si no está conectado a una red de Wifi o cuenta de datos. 
 
-![android device manager app](/media/sabias-que-tu-telefono-perdido-puede-llamarte/adm.jpg "android device manager app")
+<div class="full zoomable"><img src="/media/sabias-que-tu-telefono-perdido-puede-llamarte/adm.jpg" alt="android device manager app"></div>
 
 En todo caso, también existen otras aplicaciones para encontrar tu teléfono perdido. Una muy popular es **[Lookout](https://play.google.com/store/apps/details?id=com.lookout)** que yo misma utilizo, y he tenido la ¿mala? suerte de probar hace unos meses atrás cuando dejé mi teléfono en el taxi. Felizmente todo terminó bien, pues el conductor pudo devolverme mi teléfono sin muchos problemas. 
 
