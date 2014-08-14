@@ -4,7 +4,7 @@ layout: post
 title: Una Mirada Desde El Otro Lado
 subtitle: "Como los proyectos entre distintas profesiones puedes ayudar a crear cosas increíbles"
 categories: post
-cover_image: /media/dgnest/blog-cover.jpg
+cover_image: /media/una-mirada-desde-el-otro-lado/blog-cover.jpg
 
 excerpt: "Creo que no existen muchos lugares en la universidad donde se tenga la libertad de crear proyectos interdisciplinarios. En mi caso, la experiencia en el Fab Academy que llevé el 2013 hizo que cambiara mi perspectiva sobre lo que distintas visiones sobre un problema pueden lograr para crear cosas más allá de lo que uno pudiera haber imaginado..."
 
