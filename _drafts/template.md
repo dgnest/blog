@@ -11,6 +11,7 @@ excerpt: "Incorporated provides a great typography, responsive design, author de
 author:
   name: Oscar Giraldo
   twitter: oskargicast
+  link: https://twitter.com/vanemontezuma
   gplus: 116289065517622885716 
   bio: Co-founder, Backend
   image: members/oscar.png

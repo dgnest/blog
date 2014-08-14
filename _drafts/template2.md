@@ -12,6 +12,7 @@ excerpt: "I'm blogging like a hacker..."
 author:
   name: Jorge Estrada
   twitter: jorgenro1
+  link: https://twitter.com/vanemontezuma
   gplus: +JorgeEstradaVidal 
   bio: Co-founder, Frontend, Maker
   image: members/jorge.png
