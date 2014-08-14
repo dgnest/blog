@@ -2,11 +2,11 @@
 layout: post
 
 title: Una Mirada Desde El Otro Lado
-subtitle: "un subtitulo va aqui"
+subtitle: "Como los proyectos entre distintas profesiones puedes ayudar a crear cosas increíbles"
 categories: post
 cover_image: /media/dgnest/blog-cover.jpg
 
-excerpt: "El resumen que va en la postada del blog, va aqui..."
+excerpt: "Creo que no existen muchos lugares en la universidad donde se tenga la libertad de crear proyectos interdisciplinarios. En mi caso, la experiencia en el Fab Academy que llevé el 2013 hizo que cambiara mi perspectiva sobre lo que distintas visiones sobre un problema pueden lograr para crear cosas más allá de lo que uno pudiera haber imaginado."
 
 author:
   name: Vanessa Montezuma
