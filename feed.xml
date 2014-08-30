@@ -1,0 +1,197 @@
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>http://blog.dgnest.com</link>
+    <atom:link href="http://blog.dgnest.com/feed.xml" rel="self" type="application/rss+xml" />
+    <description></description>
+    <language>en-us</language>
+    <pubDate>Sat, 30 Aug 2014 00:28:54 -0500</pubDate>
+    <lastBuildDate>Sat, 30 Aug 2014 00:28:54 -0500</lastBuildDate>
+
+    
+    
+    <item>
+      <title>Y es así como nuestro gran viaje comienza... dgnest</title>
+      <link>http://blog.dgnest.com/post/2014/08/29/Y-es-asi-como-nuestro-gran-viaje-comienza-dgnest/</link>
+      <pubDate>Fri, 29 Aug 2014 00:00:00 -0500</pubDate>
+      <author></author>
+      <guid>http://blog.dgnest.com/post/2014/08/29/Y-es-asi-como-nuestro-gran-viaje-comienza-dgnest</guid>
+      <description>&lt;p&gt;Nuestra aventura empieza hace ya un año (2013), para ese tiempo estábamos cursando el noveno ciclo de la carrera ingeniería mecatrónica en la Universidad Nacional de Ingeniería (UNI) en Lima-Perú, cuando pensamos en crear una aplicación movil tipo una red social de gastronomía. &lt;/p&gt;
+
+&lt;p&gt;Pusimos todas nuestras ganas, comenzamos a aprender muchas cosas; pero nos dimos cuenta que no sabiamos mucho de ese gran mundo de la gastronomia; asi que el proyecto quedo inconcluso.&lt;/p&gt;
+
+&lt;p&gt;Ya estando en el décimo ciclo nos percatamos de un problema que siempre se acarreaba en todo los ciclos de la universidad, y es que la mayoria de proyectos (enfocados a hardware) quedaban en el olvido o se repetian ciclo tras ciclo. Por ello quisimos construir una plataforma en donde se puedan compartir esos proyectos con la filosofía open source hardware y que gracias a la comunidad cada vez se vayan haciendo grandes y más grandes.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/media/Y-es-asi-como-nuestro-gran-viaje-comienza-dgnest/robot.png&quot; alt=&quot;robot&quot; title=&quot;robot&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;“Y es así como nuestro gran viaje comienza…“&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Empezamos nuevamente, trabajando día y noche, para poder hacer realidad esta idea que teniamos. &lt;/p&gt;
+
+&lt;p&gt;Tuvimos muchos problemas ya que, programar para hardware (que es lo que sabiamos) es muy distinto que programar una plataforma web, pero no nos dimos por vencidos y comenzamos a aprender muchas cosas del mundo del software web.&lt;/p&gt;
+
+&lt;p&gt;Ya despues de algunos meses de arduo trabajo, estamos contentos en anunciarles que dgnest ya esta arriba =). Para poder probarla solo dirijanse a &lt;a href=&quot;http://dgnest.com&quot;&gt;dgnest.com&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/media/Y-es-asi-como-nuestro-gran-viaje-comienza-dgnest/dgnest_beta.png&quot; alt=&quot;dgnest beta&quot; title=&quot;dgnest beta&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Actualmente estamos en una etapa de pruebas, por lo que agradeceriamos bastante que si encuentran algun error, problema o tengan alguna sugerencia por favor hagannosla saber, escribiendonos a &lt;a href=&quot;http://dgnest.com/contact/&quot;&gt;hi@dgnest.com&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Tenemos muchas ideas en la cabeza que quisieramos agregarlas a la plataforma pero si las implementabamos nunca hubieramos acabado, asi que hemos lanzado solo algunas funcionalidades.&lt;/p&gt;
+
+&lt;p&gt;Espero que les guste dgnest, tanto como a nosotros, y se unan tambien en nuestro gran viaje.&lt;/p&gt;
+
+&lt;p&gt;Nos vemos en dgnest &lt;a href=&quot;http://dgnest.com&quot;&gt;=)&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Una Mirada Desde El Otro Lado</title>
+      <link>http://blog.dgnest.com/post/2014/08/14/una-mirada-desde-el-otro-lado/</link>
+      <pubDate>Thu, 14 Aug 2014 00:00:00 -0500</pubDate>
+      <author></author>
+      <guid>http://blog.dgnest.com/post/2014/08/14/una-mirada-desde-el-otro-lado</guid>
+      <description>&lt;p&gt;Creo que no existen muchos lugares en la universidad donde se tenga la libertad de crear proyectos interdisciplinarios. En mi caso, la experiencia en el Fab Academy que llevé el 2013 hizo que cambiara mi perspectiva sobre lo que distintas visiones sobre un problema pueden lograr para crear cosas más allá de lo que uno pudiera haber imaginado.&lt;/p&gt;
+
+&lt;p&gt;El &lt;a href=&quot;http://www.fabacademy.org/&quot;&gt;Fab Academy&lt;/a&gt; es un programa internacional del Massachussetts Institute of Technology (MIT) dirigido por &lt;a href=&quot;http://en.wikipedia.org/wiki/Neil_Gershenfeld&quot;&gt;Neil Gershenfeld&lt;/a&gt; del &lt;a href=&quot;http://cba.mit.edu/&quot;&gt;MIT’s Center for Bits and Atoms&lt;/a&gt;, basado en un curso de prototipaje rápido llamado &lt;a href=&quot;http://ocw.mit.edu/courses/media-arts-and-sciences/mas-863-how-to-make-almost-anything-fall-2002/&quot;&gt;MAS 863&lt;/a&gt;: Como hacer (casi) todo. Empezó siendo un programa del Center for Bits and Atoms, pero ahora se ha esparcido por todo el mundo, generando redes de fab labs. El primer Fab Lab fundado en Sudamérica fue el &lt;a href=&quot;http://fablabuni.edu.pe/&quot;&gt;Fab Lab UNI&lt;/a&gt;, hace ya un par de años, y es donde lleve este programa.&lt;/p&gt;
+
+&lt;p&gt;La idea principal del programa es que uno pueda aprender a usar todas las herramientas disponibles en el laboratorio para crear prototipos rápidos. A través de seis intensos meses se aprende de todo. Cada semana tenemos una conferencia con Neil Gershenfeld, donde se explica un poco de teoría y se nos asigna una tarea que se debe cumplir, que puede ir desde escanear un objeto en 3d hasta fabricar desde cero una placa con un sensor de luz y programarla. &lt;/p&gt;
+
+&lt;p&gt;La primera semana se debe realizar un video de nuestra idea para el proyecto final, que es básicamente un bosquejo de lo que se realizará después, ya que debe integrar lo que se va a aprender en los siguientes meses. Las siguientes semanas se van aprendiendo distintos conocimientos, y en las dos últimas se pide, por un lado, que se realice un plan del prototipo respondiendo una serie de preguntas para especificar lo que se va a realizar: que se va ha hacer, que materiales va a necesitar, donde se van a adquirir estos materiales, cuanto va a costar, que tareas deben ser completas, que dudas todavía están pendientes, y un calendario de actividades hasta el día de la entrega. Por otro lado se debe registrar todo (si, todo) lo que se va avanzando del proyecto final, y se debe intentar cumplir con el calendario pensando, aunque, la última semana siempre es caótica y se debe estar listo para que suceda lo impensable. &lt;/p&gt;
+
+&lt;p&gt;Por una parte me sentía cómoda con programas de modelado 3d, ya que en mi carrera estamos familiarizados con programas de este tipo, y no era tan difícil empezar a usar &lt;a href=&quot;http://www.rhino3d.com/&quot;&gt;Rhino&lt;/a&gt;, o utilizar cualquiera de los programas de Autodesk como &lt;a href=&quot;http://www.123dapp.com/make&quot;&gt;123d Make&lt;/a&gt;. Pero lo que si fue un reto fue fabricar placa de electrónicas (&lt;a href=&quot;http://en.wikipedia.org/wiki/Printed_circuit_board&quot;&gt;PCBs&lt;/a&gt;) desde cero. &lt;/p&gt;
+
+&lt;p&gt;Una de las particularidades del Fab Academy es que sigue una metodología muy interesante de hacerlo uno mismo (&lt;a href=&quot;http://en.wikipedia.org/wiki/Do_it_yourself&quot;&gt;DIY&lt;/a&gt;): básicamente te lanzan a la piscina a ver qué sucede. Los instructores dan algunas ideas de cómo podemos empezar, pero uno debe de aprender haciendo. Además de eso, todo debe hacerse desde cero, por eso las placas se fabrican en el mismo Fab Lab y es preferible que no se utilice, por ejemplo, un Arduino. Ya que se tratan de prototipos, siempre se nos incentiva a que hagamos todo desde cero, o con otras placas creadas en el mismo ambiente del Academy. &lt;/p&gt;
+
+&lt;p&gt;Los instructores nos enseñaban como utilizar las máquinas, en el caso de las placas, la Roland Modela, pero luego nosotros teníamos que sentarnos y hacerlo. No hace falta decir que los primeros intentos fueron desastrosos: la &lt;a href=&quot;https://www.youtube.com/watch?v=VVZONGnSPL4&quot;&gt;Roland Modela&lt;/a&gt; es básicamente una mini fresadora, y por lo tanto, hay que saber colocar la fresa para que los trazos de la placa no salgan muy delgados.&lt;/p&gt;
+
+&lt;p&gt;Durante todo el curso tuve una relación amor-odio con esa máquina, pero para ser honesta, creo que todos la teníamos. En algún momento llegué a llevarme bien con ella, pero siempre tenía momento en que quería desenchufarla y tirarla a la &lt;a href=&quot;https://www.google.com.pe/maps/vt/data=VLHX1wd2Cgu8wR6jwyh-km8JBWAkEzU4,z1Cc9oC1lsyWMstn4uMG8xr6snB6UERgHtwjg8Egq7g-VeRCTKCh4wBJbl2M6vKNfOQQ1-uhD7m_Q23GnePrXP9RXGEvDwra5rmEAqTD0aAnXIfyJVs4JpK9ER6HT2Hiuwm5ppbVm49k7rwsfOZPFui_oxUiwemAxZJG7SlsbjcT4EAW3JYNuh0eDb6MM5KqeH3Tc7FMVxvw7ur0WJPkU75N-zkVOTHKQs9RRU0ynZse5fRszKvymJuv25XtdNo37pAE1ki3xRN9qUUUfxIgTyzJZjOOjg&quot;&gt;Túpac Amaru&lt;/a&gt; para que un camión le pase encima. Pero no me malinterpreten, ese fue un punto al que ahora miro con algo de nostalgia, y pienso que si bien tuve en algún momento que hacer cinco placas seguidas y ya estaba a punto de desistir, aprendí bastante de qué cosas hacer y qué no.&lt;/p&gt;
+
+&lt;div class=&quot;full zoomable&quot;&gt;&lt;img src=&quot;http://academy.cba.mit.edu/2013/students/montezuma.vanessa/images/sessions/w4/fabisp.jpg&quot; alt=&quot;fabisp&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;Uno de las primeras tareas fue hacer un Fab ISP, que es un programador para &lt;a href=&quot;http://es.wikipedia.org/wiki/AVR&quot;&gt;microcontroladores AVR&lt;/a&gt; diseñado para la producción en el Fab Lab. Como ven en la imagen, se conecta por un cable usb a la PC, y por un cable de 6 pines a otra placa, en la cuál se puede subir un programa determinado. El Fab ISP es básico para hacer casi todas las cosas del Fab Academy. Hacerlo fue una tarea algo compleja, y tuve que hacer varios intentos hasta que finalmente obtuve una luz verde -como se ve aquí en la foto triunfal- y el firmware cargó con éxito. Y si, mi Fab ISP funciona hasta ahora. Pero cuando llegó la última semana fue cuando todo comenzó a tomar más forma. Mi idea siempre había sido crear un objeto que combinara la arquitectura, el espacio público y que interactuara con las personas, que pudiera moverse o encenderse en la noche.&lt;/p&gt;
+
+&lt;p&gt;Comencé a pensar en que cosas se encuentran en un parque y que podrían interactuar de manera interesante con las personas. Así me imaginé que podría tratarse de un animal, como un ave que estuviera a punto de comenzar a volar.&lt;/p&gt;
+
+&lt;h2 id=&quot;as-fue-como-naci-mapi&quot;&gt;Así fue como nació &lt;strong&gt;MAPI&lt;/strong&gt;.&lt;/h2&gt;
+
+&lt;div class=&quot;full zoomable&quot;&gt;&lt;img src=&quot;http://academy.cba.mit.edu/2013/students/montezuma.vanessa/images/presentation.png&quot; alt=&quot;mapi&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;Se trata de un ave -aunque de perfil parece más un pterodáctilo- que se puede ubicar en un parque, y con un sensor de luz se enciende durante la noche al mismo tiempo que comienza a mover sus alas.&lt;/p&gt;
+
+&lt;div class=&quot;full&quot;&gt;
+&lt;iframe width=&quot;640&quot; height=&quot;360&quot; src=&quot;//www.youtube.com/embed/4JuSptUoSYw&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Para realizarlo decidí hacer un &lt;a href=&quot;http://fab.cba.mit.edu/content/projects/fabkit/&quot;&gt;FabDuino&lt;/a&gt;, que como lo dice su nombre es un &lt;a href=&quot;http://arduino.cc/&quot;&gt;Arduino&lt;/a&gt; hecho con componentes del FabLab. Lo bueno del FabDuino es que una vez listo se puede usar con el Arduino Environment sin ningún problema. Hacerlo fue otro reto importante, desde hacer la placa, que tiene muchos detalles, hasta colocar todos los componentes con mucha paciencia para no quemar nada (y tener que volverlo a hacer todo de nuevo), y finalmente programarla en la terminal de &lt;a href=&quot;http://en.wikipedia.org/wiki/Ubuntu_(operating_system)&quot;&gt;ubuntu&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Definitivamente el Fab Academy fue una experiencia importante ya que me abrió todo un nuevo panorama. Como arquitecta podría haber diseñado un objeto, imaginado que se iluminaría y como se movería. Pero dentro del ambiente del Fab Lab pude hacerlo, crearlo con mis propias manos y saber de primera mano qué cosas funcionarían, que cosas no, y si podría eventualmente comercializarlo. Por esa razón, estar en un ambiente donde se ven proyectos de distintas profesiones (electrónica, mecatrónica, mecánica, diseño industrial, etc.) puede generar muchas posibilidades y alimentar la imaginación para crear cosas geniales.&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>¿Sabías que tu teléfono perdido puede llamarte?</title>
+      <link>http://blog.dgnest.com/post/2014/08/10/sabias-que-tu-telefono-perdido-puede-llamarte/</link>
+      <pubDate>Sun, 10 Aug 2014 00:00:00 -0500</pubDate>
+      <author></author>
+      <guid>http://blog.dgnest.com/post/2014/08/10/sabias-que-tu-telefono-perdido-puede-llamarte</guid>
+      <description>&lt;p&gt;Tal vez Google no ha realizado el mejor trabajo promocionándolo, pero sabias que tu teléfono con sistema Android puede bloquearse o puedes localizarlo cuando lo hayas perdido. &lt;/p&gt;
+
+&lt;p&gt;Todos los teléfonos Android tienen esta función de manera automática, pero si tienes un smarthphone un poco más viejo también puede bajar la &lt;a href=&quot;https://play.google.com/store/apps/details?id=com.google.android.apps.adm&quot;&gt;aplicación&lt;/a&gt; por tu cuenta desde Google Play. &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Pero ahora vamos a lo mejor de esta característica:&lt;/strong&gt; Tu teléfono perdido puede ser configurado para llamarte (y solamente a ti) en la posibilidad que alguien lo encuentre. &lt;/p&gt;
+
+&lt;p&gt;Y ahora te mostraremos cómo: &lt;/p&gt;
+
+&lt;p&gt;Si perdiste tu teléfono, debes ir al Administrador de Dispositivos Android. Si ingresaste por primera vez, Google te pedirá que te identifiques con tu cuenta asociada a Google y tu clave. Luego de un mensaje de bienvenida, empezará a recopilar datos de la ubicación de tu teléfono para ayudarte a encontrarlo.  Una vez aquí puedes solicitar que el dispositivo emita un sonido (para encontrarlo, quizás entre los cojines del sillón de tu casa), o borrar remotamente todos los datos del teléfono, así como configurar la función de enviar un mensaje de recuperación a quien encuentre tu teléfono (y sea tan amable de devolverlo) y pueda llamarte. &lt;/p&gt;
+
+&lt;p&gt;Felizmente, el teléfono va a estar bloqueado durante este periodo, así que la persona que lo encuentre solo podrá llamarte a ti y nada más.&lt;/p&gt;
+
+&lt;p&gt;Aunque debemos advertirte que esta característica tiene algunos defectos: &lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;No funcionará si&lt;/strong&gt; tu teléfono está apagado o fuera de cobertura. &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;No funcionará si&lt;/strong&gt; el dispositivo ha sido restablecido con los datos de fábrica. &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;No funcionará&lt;/strong&gt; si no está conectado a una red de Wifi o cuenta de datos. &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;div class=&quot;full zoomable&quot;&gt;&lt;img src=&quot;/media/sabias-que-tu-telefono-perdido-puede-llamarte/adm.jpg&quot; alt=&quot;android device manager app&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;En todo caso, también existen otras aplicaciones para encontrar tu teléfono perdido. Una muy popular es &lt;strong&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.lookout&quot;&gt;Lookout&lt;/a&gt;&lt;/strong&gt; que yo misma utilizo, y he tenido la ¿mala? suerte de probar hace unos meses atrás cuando dejé mi teléfono en el taxi. Felizmente todo terminó bien, pues el conductor pudo devolverme mi teléfono sin muchos problemas. &lt;/p&gt;
+
+&lt;p&gt;Para utilizarla simplemente hay que descargar la aplicación desde Google Play, crear una cuenta y configurar la aplicación de acuerdo a lo que quieras hacer. En la versión free puedes encontrar tu teléfono perdido ingresando a tu cuenta desde una PC, y en la versión pagada puedes hacer cosas mas complejas como generar backups de toda tu información, bloquear tu equipo, entre otras cosas maravillosas. &lt;/p&gt;
+
+&lt;p&gt;¿Has probado esta función de Android? ¿Usas alguna otra aplicación para tu teléfono? Cuéntanos en los comentarios. &lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>dgnest</title>
+      <link>http://blog.dgnest.com/post/2014/08/07/dgnest/</link>
+      <pubDate>Thu, 07 Aug 2014 00:00:00 -0500</pubDate>
+      <author></author>
+      <guid>http://blog.dgnest.com/post/2014/08/07/dgnest</guid>
+      <description>&lt;p&gt;Durante el tiempo que estudié en la universidad vi muy buenos proyectos con &lt;strong&gt;hardware&lt;/strong&gt; (relacionados a la electrónica, mecánica y &lt;a href=&quot;http://en.wikipedia.org/wiki/Control_theory&quot;&gt;control&lt;/a&gt;) a cargo de personas muy talentosas, pero note también que muchos no eran finalizados o no recibían una buena difusión. Esto se debe a que invertir en desarrollo e investigación de tecnología muchas veces es costoso y &lt;em&gt;arriesgado&lt;/em&gt; (lastimosamente un error de diseño en el hardware muchas veces no es tan simple como borrar un par de lineas de código). &lt;/p&gt;
+
+&lt;p&gt;Luego de haber terminado ya la carrera de &lt;a href=&quot;http://es.wikipedia.org/wiki/Ingenier%C3%ADa_mecatr%C3%B3nica&quot;&gt;ingeniería mecatrónica&lt;/a&gt;, haber experimentado con mucho &lt;strong&gt;hardware&lt;/strong&gt; y de haber tenido la oportunidad de participar en proyectos de desarrollo de &lt;strong&gt;software&lt;/strong&gt;. Notamos cosas muy marcadas entre estos dos mundos. El &lt;em&gt;software es mucho más metódico&lt;/em&gt;, y existen muchos marcos de trabajo los cuales hacen de su desarrollo muy ágil. Mientras que en el hardware, a pesar de existir en la actualidad algunas metodologías, poco se usan o se desconocen.&lt;/p&gt;
+
+&lt;p&gt;Ahora bien, &lt;strong&gt;¿Qué es &lt;a href=&quot;http://dgnest.com&quot;&gt;dgnest&lt;/a&gt;?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;div class=&quot;awesome-quote&quot;&gt;
+&lt;p&gt;
+    dgnest, pronunciado de la siguiente forma:
+    &lt;audio controls=&quot;&quot;&gt;
+        &lt;source src=&quot;/assets/dgnest.mp3&quot; type=&quot;audio/mpeg&quot; /&gt;
+        Your browser does not support the audio element.
+    &lt;/audio&gt;
+    &lt;br /&gt;
+    significa &lt;strong&gt;nido digital de ideas&lt;/strong&gt;. 
+&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;dgnest pretende solucionar este problema siendo una plataforma &lt;strong&gt;colaborativa&lt;/strong&gt; de proyectos &lt;a href=&quot;http://en.wikipedia.org/wiki/Open_source_hardware&quot;&gt;open source hardware&lt;/a&gt;, la cual busca eliminar la brecha entre &lt;a href=&quot;http://en.wikipedia.org/wiki/Maker_culture&quot;&gt;makers&lt;/a&gt; y aficionados al hardware (fotógrafos, músicos, artistas, etc.) e igualmente poder hacer más estrecho aún el vínculo entre &lt;em&gt;(futuros)&lt;/em&gt; makers y provedores/fabricantes (distribuidoras electronicas, soldadores, fablabs, etc.) brindando un espacio en donde puedas compartir:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Ese gran proyecto que dejaste en el olvido y muchas veces otras personas están interesados en mejorarlo.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Un proyecto a medias en el que necesitas ayuda. &lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;O tan solo compartir un proyecto porque amas tanto como nosotros el hardware libre ♥&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;easter-nyan&quot;&gt;Nuestro Equipo &lt;a href=&quot;http://youtu.be/zRUcZox9akA&quot; target=&quot;_blank&quot;&gt;&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Hoy en día dgnest es conformado por Jorge Estrada (&lt;a href=&quot;https://twitter.com/jorgenro1&quot;&gt;@jorgenro1&lt;/a&gt;), Vanessa Montezuma (&lt;a href=&quot;https://twitter.com/vanemontezuma&quot;&gt;@vanemontezuma&lt;/a&gt;) y yo (&lt;a href=&quot;https://twitter.com/oskargicast&quot;&gt;@oskargicast&lt;/a&gt;). Los cuales día a día luchamos por hacer de esta plataforma un verdadera experiencia colaborativa. En donde no solo encuentres soluciones a tus proyectos , sino también contactos y proveedores (próximamente) que te ayuden a agilizar tu idea.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/members/team.png&quot; alt=&quot;dgnest team&quot; title=&quot;dgnest team&quot; /&gt;
+&lt;img src=&quot;/images/members/tu.png&quot; alt=&quot;faltas tú&quot; title=&quot;faltas tú&quot; /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;full&quot; style=&quot;font-weight:bold;&quot;&gt;&quot;Solo Faltas Tú&quot;&lt;/div&gt;
+
+&lt;p&gt;Esperamos que seas parte de esta comunidad. Si deseas contribuir activamente puedes escribirnos a &lt;strong&gt;hi@dgnest.com&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;“El camino es muy largo, &lt;strong&gt;seguimos trabajando&lt;/strong&gt; y esperamos contar con tu ayuda. &lt;a href=&quot;https://twitter.com/hashtag/Descubre?src=hash&quot;&gt;#Descubre&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/Contribuye?src=hash&quot;&gt;#Contribuye&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/Crea?src=hash&quot;&gt;#Crea&lt;/a&gt;”&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;/media/dgnest/working.jpg&quot; alt=&quot;working&quot; title=&quot;working&quot; /&gt;
+&lt;em&gt;Fotos cortesia de imagine films&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;fa fa-magic&quot;&gt;&lt;/i&gt; P.D. ¿Encontraste el &lt;a href=&quot;http://es.wikipedia.org/wiki/Huevo_de_pascua_(virtual)&quot;&gt;easter egg&lt;/a&gt; dentro del post? :)&lt;/p&gt;
+</description>
+    </item>
+    
+    
+
+  </channel> 
+</rss>

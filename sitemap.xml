@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  
+  <url>
+    <loc>http://blog.dgnest.com/post/2014/08/29/Y-es-asi-como-nuestro-gran-viaje-comienza-dgnest/</loc>
+    <lastmod>2014-08-29T00:00:00-05:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.dgnest.com/post/2014/08/14/una-mirada-desde-el-otro-lado/</loc>
+    <lastmod>2014-08-14T00:00:00-05:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.dgnest.com/post/2014/08/10/sabias-que-tu-telefono-perdido-puede-llamarte/</loc>
+    <lastmod>2014-08-10T00:00:00-05:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.dgnest.com/post/2014/08/07/dgnest/</loc>
+    <lastmod>2014-08-07T00:00:00-05:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  
+  <url>
+    <loc>http://blog.dgnest.com/404.html</loc>
+    <lastmod>2014-08-30T00:28:54-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.dgnest.com/</loc>
+    <lastmod>2014-08-30T00:28:54-05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  
+</urlset>
