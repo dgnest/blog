@@ -21,7 +21,7 @@ Nuestra aventura empieza hace ya un año (2013), para ese tiempo estábamos curs
 
 Pusimos todas nuestras ganas, comenzamos a aprender muchas cosas; pero nos dimos cuenta que no sabiamos mucho de ese gran mundo de la gastronomia; asi que el proyecto quedo inconcluso.
 
-Ya estando en el décimo ciclo nos percatamos de un problema que siempre se acarreaba en todo los ciclos de la universidad, y es que la mayoria de proyectos (enfocados a hardware) quedaban en el olvido o se repetian ciclo tras ciclo. Por ello quisimos construir una plataforma en donde se puedan compartir esos proyectos con la filosofía open source hardware y que gracias a la comunidad se vallan haciendo grandes y mas grandes cada vez.
+Ya estando en el décimo ciclo nos percatamos de un problema que siempre se acarreaba en todo los ciclos de la universidad, y es que la mayoria de proyectos (enfocados a hardware) quedaban en el olvido o se repetian ciclo tras ciclo. Por ello quisimos construir una plataforma en donde se puedan compartir esos proyectos con la filosofía open source hardware y que gracias a la comunidad cada vez se vayan haciendo grandes y más grandes.
 
 ![robot](/media/Y-es-asi-como-nuestro-gran-viaje-comienza-dgnest/robot.png "robot")
 
